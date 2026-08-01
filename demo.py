@@ -50,12 +50,12 @@ for restante in range(total, -1, -1):
     h = restante // 3600
     m = (restante % 3600) // 60
     s = restante % 60
-    ancho = 20
+    ancho = 67
     llenos = int(ancho * (porcentaje / 100))
     vacios = ancho - llenos
     barra = "█" * llenos + "░" * vacios
     reloj = f"{h:02d}:{m:02d}:{s:02d}"
-    print(f"\r{CSI}K{reloj:<28}{barra} {round(porcentaje, 0)}%", end="", flush=True)
+    print(f"\r{CSI}K{reloj: <10}{barra} {round(porcentaje, 0)}%", end="", flush=True)
     if restante != 0:
         time.sleep(1)
 
