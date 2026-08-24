@@ -1,0 +1,17 @@
+{
+  "weekly goal": 1,
+  "sesiones": [
+    {
+      "fin": "2026-08-02T15:31:06",
+      "duracion_segundos": 60
+    },
+    {
+      "fin": "2026-08-02T15:35:59",
+      "duracion_segundos": 60
+    },
+    {
+      "fin": "2026-08-02T16:14:50",
+      "duracion_segundos": 120
+    }
+  ]
+}
