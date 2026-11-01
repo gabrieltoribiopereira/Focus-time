@@ -1,6 +1,4 @@
-# Bytecode compilado por Python
 __pycache__/
 *.pyc
 
-# Datos locales del usuario (objetivo semanal e historial de sesiones)
 config.json

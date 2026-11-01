@@ -12,6 +12,45 @@
     {
       "fin": "2026-08-02T16:14:50",
       "duracion_segundos": 120
+    },
+    {
+      "fin": "2026-08-24T13:52:08",
+      "duracion_segundos": 120
+    },
+    {
+      "fin": "2026-08-24T13:55:04",
+      "duracion_segundos": 60
+    },
+    {
+      "fecha": "2026-08-29T23:10:30",
+      "duracion_segundos": 26,
+      "objetivo_segundos": 3660
+    },
+    {
+      "fecha": "2026-08-29T23:15:06",
+      "duracion_segundos": 28,
+      "objetivo_segundos": 3660
+    },
+    {
+      "fecha": "2026-08-29T23:15:49",
+      "duracion_segundos": 28,
+      "objetivo_segundos": 3660
+    },
+    {
+      "fecha": "2026-08-30T13:04:45",
+      "duracion_segundos": 22,
+      "objetivo_segundos": 60
+    },
+    {
+      "inicio": "2026-10-31T22:14:58",
+      "fin": "2026-10-31T22:15:58",
+      "duracion_segundos": 60,
+      "etiqueta": "",
+      "completa": true
     }
-  ]
+  ],
+  "historial_objetivos": {
+    "2026-W44": 1
+  },
+  "idle_seconds": 60
 }
