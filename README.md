@@ -5,7 +5,7 @@ A simple focus timer for the terminal with a weekly goal.
 ## Run
 
 ```bash
-python3 inactive.py
+python3 main.py
 ```
 
 ## Use
